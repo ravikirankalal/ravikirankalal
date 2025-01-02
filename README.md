@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravikirankalal
-- 👀 I’m interested in ... web, and distributed computing.
-- 🌱 I’m currently learning ... scss and nodejs
-- 💞️ I’m looking to collaborate on ... Mixin
+- 👀 I’m interested in ... distributed computing.
+- 🌱 I’m currently learning ... mesos, alluxio.
+- 💞️ I’m looking to collaborate on ... Namma Yatri
 - 📫 How to reach me ...ravikiran.kalal@gmail.com
 
 <!---
